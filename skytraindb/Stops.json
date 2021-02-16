@@ -1,0 +1,673 @@
+{
+	"Stops":
+	[
+		{
+			"route_name":"Canada Line",
+			"direction_name":"Northbound",
+			"direction_do":0,
+			"stop_id":11295,
+			"stop_name":"Richmond-Brighouse Station",
+			"canada_direction":"Brighouse",
+			"stop_do":1
+		},
+		{
+			"route_name":"Canada Line",
+			"direction_name":"Northbound",
+			"direction_do":0,
+			"stop_id":11293,
+			"stop_name":"Lansdowne Station",
+			"canada_direction":"Brighouse",
+			"stop_do":2
+		},
+		{
+			"route_name":"Canada Line",
+			"direction_name":"Northbound",
+			"direction_do":0,
+			"stop_id":11291,
+			"stop_name":"Aberdeen Station",
+			"canada_direction":"Brighouse",
+			"stop_do":3
+		},
+		{
+			"route_name":"Canada Line",
+			"direction_name":"Northbound",
+			"direction_do":0,
+			"stop_id":11301,
+			"canada_direction":"YVR",
+			"stop_name":"YVR-Airport Station",
+			"stop_do":4
+		},
+		{
+			"route_name":"Canada Line",
+			"direction_name":"Northbound",
+			"direction_do":0,
+			"stop_id":11299,
+			"canada_direction":"YVR",
+			"stop_name":"Sea Island Centre Station",
+			"stop_do":5
+		},
+		{
+			"route_name":"Canada Line",
+			"direction_name":"Northbound",
+			"direction_do":0,
+			"stop_id":11297,
+			"stop_name":"Templeton Station",
+			"canada_direction":"YVR",
+			"stop_do":6
+		},
+		{
+			"route_name":"Canada Line",
+			"direction_name":"Northbound",
+			"direction_do":0,
+			"stop_id":11289,
+			"stop_name":"Bridgeport Station",
+			"stop_do":7
+		},
+		{
+			"route_name":"Canada Line",
+			"direction_name":"Northbound",
+			"direction_do":0,
+			"stop_id":11287,
+			"stop_name":"Marine Drive Station",
+			"stop_do":8
+		},
+		{
+			"route_name":"Canada Line",
+			"direction_name":"Northbound",
+			"direction_do":0,
+			"stop_id":11285,
+			"stop_name":"Langara-49th Avenue Station",
+			"stop_do":9
+		},
+		{
+			"route_name":"Canada Line",
+			"direction_name":"Northbound",
+			"direction_do":0,
+			"stop_id":11283,
+			"stop_name":"Oakridge-41st Avenue Station",
+			"stop_do":10
+		},
+		{
+			"route_name":"Canada Line",
+			"direction_name":"Northbound",
+			"direction_do":0,
+			"stop_id":11281,
+			"stop_name":"King Edward Station",
+			"stop_do":11
+		},
+		{
+			"route_name":"Canada Line",
+			"direction_name":"Northbound",
+			"direction_do":0,
+			"stop_id":11279,
+			"stop_name":"Broadway-City Hall Station",
+			"stop_do":12
+		},
+		{
+			"route_name":"Canada Line",
+			"direction_name":"Northbound",
+			"direction_do":0,
+			"stop_id":11277,
+			"stop_name":"Olympic Village Station",
+			"stop_do":13
+		},
+		{
+			"route_name":"Canada Line",
+			"direction_name":"Northbound",
+			"direction_do":0,
+			"stop_id":11275,
+			"stop_name":"Yaletown-Roundhouse Station",
+			"stop_do":14
+		},
+		{
+			"route_name":"Canada Line",
+			"direction_name":"Northbound",
+			"direction_do":0,
+			"stop_id":11273,
+			"stop_name":"Vancouver City Centre Station",
+			"stop_do":15
+		},
+		{
+			"route_name":"Canada Line",
+			"direction_name":"Northbound",
+			"direction_do":0,
+			"stop_id":11303,
+			"stop_name":"Waterfront Station",
+			"stop_do":16
+		},
+		{
+			"route_name":"Canada Line",
+			"direction_name":"Southbound",
+			"direction_do":1,
+			"stop_id":11302,
+			"stop_name":"Waterfront Station",
+			"stop_do":1
+		},
+		{
+			"route_name":"Canada Line",
+			"direction_name":"Southbound",
+			"direction_do":1,
+			"stop_id":11272,
+			"stop_name":"Vancouver City Centre Station",
+			"stop_do":2
+		},
+		{
+			"route_name":"Canada Line",
+			"direction_name":"Southbound",
+			"direction_do":1,
+			"stop_id":11274,
+			"stop_name":"Yaletown-Roundhouse Station",
+			"stop_do":3
+		},
+		{
+			"route_name":"Canada Line",
+			"direction_name":"Southbound",
+			"direction_do":1,
+			"stop_id":11276,
+			"stop_name":"Olympic Village Station",
+			"stop_do":4
+		},
+		{
+			"route_name":"Canada Line",
+			"direction_name":"Southbound",
+			"direction_do":1,
+			"stop_id":11278,
+			"stop_name":"Broadway-City Hall Station",
+			"stop_do":5
+		},
+		{
+			"route_name":"Canada Line",
+			"direction_name":"Southbound",
+			"direction_do":1,
+			"stop_id":11280,
+			"stop_name":"King Edward Station",
+			"stop_do":6
+		},
+		{
+			"route_name":"Canada Line",
+			"direction_name":"Southbound",
+			"direction_do":1,
+			"stop_id":11282,
+			"stop_name":"Oakridge-41st Avenue Station",
+			"stop_do":7
+		},
+		{
+			"route_name":"Canada Line",
+			"direction_name":"Southbound",
+			"direction_do":1,
+			"stop_id":11284,
+			"stop_name":"Langara-49th Avenue Station",
+			"stop_do":8
+		},
+		{
+			"route_name":"Canada Line",
+			"direction_name":"Southbound",
+			"direction_do":1,
+			"stop_id":11286,
+			"stop_name":"Marine Drive Station",
+			"stop_do":9
+		},
+		{
+			"route_name":"Canada Line",
+			"direction_name":"Southbound",
+			"direction_do":1,
+			"stop_id":11288,
+			"stop_name":"Bridgeport Station",
+			"stop_do":10
+		},
+		{
+			"route_name":"Canada Line",
+			"direction_name":"Southbound",
+			"direction_do":1,
+			"stop_id":11290,
+			"stop_name":"Aberdeen Station",
+			"canada_direction":"Brighouse",
+			"stop_do":11
+		},
+		{
+			"route_name":"Canada Line",
+			"direction_name":"Southbound",
+			"direction_do":1,
+			"stop_id":11292,
+			"canada_direction":"Brighouse",
+			"stop_name":"Lansdowne Station",
+			"stop_do":12
+		},
+		{
+			"route_name":"Canada Line",
+			"direction_name":"Southbound",
+			"direction_do":1,
+			"stop_id":11294,
+			"canada_direction":"Brighouse",
+			"stop_name":"Richmond-Brighouse Station",
+			"stop_do":13
+		},
+		{
+			"route_name":"Canada Line",
+			"direction_name":"Southbound",
+			"direction_do":1,
+			"stop_id":11296,
+			"stop_name":"Templeton Station",
+			"canada_direction":"YVR",
+			"stop_do":14
+		},
+		{
+			"route_name":"Canada Line",
+			"direction_name":"Southbound",
+			"direction_do":1,
+			"stop_id":11298,
+			"canada_direction":"YVR",
+			"stop_name":"Sea Island Centre Station",
+			"stop_do":15
+		},
+		{
+			"route_name":"Canada Line",
+			"direction_name":"Southbound",
+			"direction_do":1,
+			"stop_id":11300,
+			"canada_direction":"YVR",
+			"stop_name":"YVR-Airport Station",
+			"stop_do":16
+		},
+		{
+			"route_name":"Expo Line",
+			"direction_name":"Eastbound",
+			"direction_do":0,
+			"stop_id":8039,
+			"stop_name":"Waterfront Station",
+			"stop_do":1
+		},
+		{
+			"route_name":"Expo Line",
+			"direction_name":"Eastbound",
+			"direction_do":0,
+			"stop_id":8040,
+			"stop_name":"Burrard Station",
+			"stop_do":2
+		},
+		{
+			"route_name":"Expo Line",
+			"direction_name":"Eastbound",
+			"direction_do":0,
+			"stop_id":8041,
+			"stop_name":"Granville Station",
+			"stop_do":3
+		},
+		{
+			"route_name":"Expo Line",
+			"direction_name":"Eastbound",
+			"direction_do":0,
+			"stop_id":8042,
+			"stop_name":"Stadium-Chinatown Station",
+			"stop_do":4
+		},
+		{
+			"route_name":"Expo Line",
+			"direction_name":"Eastbound",
+			"direction_do":0,
+			"stop_id":8043,
+			"stop_name":"Main Street-Science World Station",
+			"stop_do":5
+		},
+		{
+			"route_name":"Expo Line",
+			"direction_name":"Eastbound",
+			"direction_do":0,
+			"stop_id":8044,
+			"stop_name":"Commercial-Broadway Station",
+			"stop_do":6
+		},
+		{
+			"route_name":"Expo Line",
+			"direction_name":"Eastbound",
+			"direction_do":0,
+			"stop_id":8045,
+			"stop_name":"Nanaimo Station",
+			"stop_do":7
+		},
+		{
+			"route_name":"Expo Line",
+			"direction_name":"Eastbound",
+			"direction_do":0,
+			"stop_id":8046,
+			"stop_name":"29th Avenue Station",
+			"stop_do":8
+		},
+		{
+			"route_name":"Expo Line",
+			"direction_name":"Eastbound",
+			"direction_do":0,
+			"stop_id":8047,
+			"stop_name":"Joyce-Collingwood Station",
+			"stop_do":9
+		},
+		{
+			"route_name":"Expo Line",
+			"direction_name":"Eastbound Station",
+			"direction_do":0,
+			"stop_id":8048,
+			"stop_name":"Patterson Station",
+			"stop_do":10
+		},
+		{
+			"route_name":"Expo Line",
+			"direction_name":"Eastbound Station",
+			"direction_do":0,
+			"stop_id":8049,
+			"stop_name":"Metrotown Station",
+			"stop_do":11
+		},
+		{
+			"route_name":"Expo Line",
+			"direction_name":"Eastbound",
+			"direction_do":0,
+			"stop_id":8050,
+			"stop_name":"Royal Oak Station",
+			"stop_do":12
+		},
+		{
+			"route_name":"Expo Line",
+			"direction_name":"Eastbound",
+			"direction_do":0,
+			"stop_id":8051,
+			"stop_name":"Edmonds Station",
+			"stop_do":13
+		},
+		{
+			"route_name":"Expo Line",
+			"direction_name":"Eastbound",
+			"direction_do":0,
+			"stop_id":8052,
+			"stop_name":"22nd Street Station",
+			"stop_do":14
+		},
+		{
+			"route_name":"Expo Line",
+			"direction_name":"Eastbound",
+			"direction_do":0,
+			"stop_id":8053,
+			"stop_name":"New Westminster Station",
+			"stop_do":15
+		},
+		{
+			"route_name":"Expo Line",
+			"direction_name":"Eastbound",
+			"direction_do":0,
+			"stop_id":8054,
+			"stop_name":"Columbia Station",
+			"stop_do":16
+		},
+		{
+			"route_name":"Expo Line",
+			"direction_name":"Eastbound",
+			"expo_direction":"King George",
+			"direction_do":0,
+			"stop_id":8055,
+			"stop_name":"Scott Road Station",
+			"stop_do":17
+		},
+		{
+			"route_name":"Expo Line",
+			"direction_name":"Eastbound",
+			"expo_direction":"King George",
+			"direction_do":0,
+			"stop_id":8056,
+			"stop_name":"Gateway Station",
+			"stop_do":18
+		},
+		{
+			"route_name":"Expo Line",
+			"direction_name":"Eastbound",
+			"expo_direction":"King George",
+			"direction_do":0,
+			"stop_id":8057,
+			"stop_name":"Surrey Central Station",
+			"stop_do":19
+		},
+		{
+			"route_name":"Expo Line",
+			"direction_name":"Eastbound",
+			"expo_direction":"King George",
+			"direction_do":0,
+			"stop_id":8058,
+			"stop_name":"King George Station",
+			"stop_do":20
+		},
+		{
+			"route_name":"Expo Line",
+			"direction_name":"Eastbound",
+			"expo_direction":"Production Way",
+			"direction_do":0,
+			"stop_id":8580,
+			"stop_name":"Sapperton Station",
+			"stop_do":21
+		},
+		{
+			"route_name":"Expo Line",
+			"expo_direction":"Production Way",
+			"direction_name":"Eastbound",
+			"direction_do":0,
+			"stop_id":8578,
+			"stop_name":"Braid Station",
+			"stop_do":22
+		},
+		{
+			"route_name":"Expo Line",
+			"expo_direction":"Production Way",
+			"direction_name":"Eastbound",
+			"direction_do":0,
+			"stop_id":8746,
+			"stop_name":"Lougheed Town Centre Station",
+			"stop_do":23
+		},
+		{
+			"route_name":"Expo Line",
+			"expo_direction":"Production Way",
+			"direction_name":"Eastbound",
+			"direction_do":0,
+			"stop_id":8747,
+			"stop_name":"Production Way - University Station",
+			"stop_do":24
+		},
+		{
+			"route_name":"Expo Line",
+			"expo_direction":"Production Way",
+			"direction_name":"Westbound",
+			"direction_do":1,
+			"stop_id":8756,
+			"stop_name":"Production Way - University Station",
+			"stop_do":1
+		},
+		{
+			"route_name":"Expo Line",
+			"expo_direction":"Production Way",
+			"direction_name":"Westbound",
+			"direction_do":1,
+			"stop_id":8755,
+			"stop_name":"Lougheed Town Centre Station",
+			"stop_do":2
+		},
+		{
+			"route_name":"Expo Line",
+			"expo_direction":"Production Way",
+			"direction_name":"Westbound",
+			"direction_do":1,
+			"stop_id":8577,
+			"stop_name":"Braid Station",
+			"stop_do":3
+		},
+		{
+			"route_name":"Expo Line",
+			"expo_direction":"Production Way",
+			"direction_name":"Westbound",
+			"direction_do":1,
+			"stop_id":8579,
+			"stop_name":"Sapperton Station",
+			"stop_do":4
+		},
+		{
+			"route_name":"Expo Line",
+			"expo_direction":"King George",
+			"direction_name":"Westbound",
+			"direction_do":1,
+			"stop_id":8059,
+			"stop_name":"King George Station",
+			"stop_do":5
+		},
+		{
+			"route_name":"Expo Line",
+			"expo_direction":"King George",
+			"direction_name":"Westbound",
+			"direction_do":1,
+			"stop_id":8060,
+			"stop_name":"Surrey Central Station",
+			"stop_do":6
+		},
+		{
+			"route_name":"Expo Line",
+			"expo_direction":"King George",
+			"direction_name":"Westbound",
+			"direction_do":1,
+			"stop_id":8061,
+			"stop_name":"Gateway Station",
+			"stop_do":7
+		},
+		{
+			"route_name":"Expo Line",
+			"expo_direction":"King George",
+			"direction_name":"Westbound",
+			"direction_do":1,
+			"stop_id":8062,
+			"stop_name":"Scott Road Station",
+			"stop_do":8
+		},
+		{
+			"route_name":"Expo Line",
+			"direction_name":"Westbound",
+			"direction_do":1,
+			"stop_id":8063,
+			"stop_name":"Columbia Station",
+			"stop_do":9
+		},
+		{
+			"route_name":"Expo Line",
+			"direction_name":"Westbound",
+			"direction_do":1,
+			"stop_id":8064,
+			"stop_name":"New Westminister Station",
+			"stop_do":10
+		},
+		{
+			"route_name":"Expo Line",
+			"direction_name":"Westbound",
+			"direction_do":1,
+			"stop_id":8065,
+			"stop_name":"22nd Street Station",
+			"stop_do":11
+		},
+		{
+			"route_name":"Expo Line",
+			"direction_name":"Westbound",
+			"direction_do":1,
+			"stop_id":8066,
+			"stop_name":"Edmonds Station",
+			"stop_do":12
+		},
+		{
+			"route_name":"Expo Line",
+			"direction_name":"Westbound",
+			"direction_do":1,
+			"stop_id":8067,
+			"stop_name":"Royal Oak Station",
+			"stop_do":13
+		},
+		{
+			"route_name":"Expo Line",
+			"direction_name":"Westbound",
+			"direction_do":1,
+			"stop_id":8068,
+			"stop_name":"Metrotown Station",
+			"stop_do":14
+		},
+		{
+			"route_name":"Expo Line",
+			"direction_name":"Westbound",
+			"direction_do":1,
+			"stop_id":8069,
+			"stop_name":"Patterson Station",
+			"stop_do":15
+		},
+		{
+			"route_name":"Expo Line",
+			"direction_name":"Westbound",
+			"direction_do":1,
+			"stop_id":8070,
+			"stop_name":"Joyce-Collingwood Station",
+			"stop_do":16
+		},
+		{
+			"route_name":"Expo Line",
+			"direction_name":"Westbound",
+			"direction_do":1,
+			"stop_id":8071,
+			"stop_name":"29th Avenue Station",
+			"stop_do":17
+		},
+		{
+			"route_name":"Expo Line",
+			"direction_name":"Westbound",
+			"direction_do":1,
+			"stop_id":8072,
+			"stop_name":"Nanaimo Station",
+			"stop_do":18
+		},
+		{
+			"route_name":"Expo Line",
+			"direction_name":"Westbound",
+			"direction_do":1,
+			"stop_id":8073,
+			"stop_name":"Commercial-Broadway Station",
+			"stop_do":19
+		},
+		{
+			"route_name":"Expo Line",
+			"direction_name":"Westbound",
+			"direction_do":1,
+			"stop_id":8074,
+			"stop_name":"Main Street-Science World Station",
+			"stop_do":20
+		},
+		{
+			"route_name":"Expo Line",
+			"direction_name":"Westbound",
+			"direction_do":1,
+			"stop_id":8075,
+			"stop_name":"Stadium-Chinatown Station",
+			"stop_do":21
+		},
+		{
+			"route_name":"Expo Line",
+			"direction_name":"Westbound",
+			"direction_do":1,
+			"stop_id":8076,
+			"stop_name":"Granville Station",
+			"stop_do":22
+		},
+		{
+			"route_name":"Expo Line",
+			"direction_name":"Westbound",
+			"direction_do":1,
+			"stop_id":8077,
+			"stop_name":"Burrard Station",
+			"stop_do":23
+		},
+		{
+			"route_name":"Expo Line",
+			"direction_name":"Westbound",
+			"direction_do":1,
+			"stop_id":8078,
+			"stop_name":"Waterfront Station",
+			"stop_do":24
+		}
+	]
+}
